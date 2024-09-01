@@ -116,6 +116,6 @@ language badges:
 
 ```
 git clone https://github.com/EagleCyber-74/devil-s-eye-
-cd devil-s-eyes
+cd devil-s-eye-
 chmod +x eagleweb.py
 ./eagleweb.py

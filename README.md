@@ -151,4 +151,4 @@ RIPLOOK: RIPLOOK [DOMAIN, IP] => RIPLOOK [example.com, 1.1.1.1]
 RDNSLOOK: RDNSLOOK [IP] => RDNSLOOK [1.1.1.1]
 TCPSCAN: TCPSCAN [IP] [PORT => COMMON, OWN] => TCPSCAN [1.1.1.1] [COMMON, 80]
 UDPSCAN: UDPSCAN [IP] [PORT => COMMON, OWN] => UDPSCAN [1.1.1.1] [COMMON, 80]
-   ![my image ](images/eagle.jpg)
+   ![my image ](eagle.jpg)

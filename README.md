@@ -118,7 +118,7 @@ language badges:
 git clone https://github.com/EagleCyber-74/devil-s-eye-
 cd devil-s-eye-
 chmod +x Eagleweb.py
-./Eagleweb.py
+python Eagleweb.py
 `````
 NOTE:
 HINFO: HTTP HEADERS SCANNER
